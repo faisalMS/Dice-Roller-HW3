@@ -3,4 +3,5 @@ Dice Roller App
 
 #Image
 
-![image](https://user-images.githubusercontent.com/83320125/182822333-a8ae8da7-648c-4d98-b4a7-409c75cab563.png)
+
+<img width="314" alt="Screen Shot 1444-01-06 at 1 15 10 PM" src="https://user-images.githubusercontent.com/83320125/182823265-c190c5f6-6c9b-4954-8ef4-b37832c5c6f3.png">
